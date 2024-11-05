@@ -23,7 +23,7 @@ This project focuses on analyzing customer subscription trends, including patter
 
 ### Data Sources
 ---
-The primary source of data used here is Lita Capstone Dataset.CSV. Download [Lita Capstone Dataset Download](https://shorturl.at/iVtt2)
+The primary source of data used here is Lita Capstone Dataset.CSV. [Download Here](https://shorturl.at/iVtt2)
 
 ### Tools Used
 ---
