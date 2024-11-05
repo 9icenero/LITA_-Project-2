@@ -1,6 +1,6 @@
 # Project Title
 ---
-### Sales Performance Analysis Project
+### Customer Subscription Analysis Project
 ---
 
 
@@ -137,11 +137,13 @@ Order by subscriptionend_count desc;
 ---
 <img width="583" alt="Customer Analysis Dashboard" src="https://github.com/user-attachments/assets/390e9818-2aa4-4dde-88b7-8b71829cbd97">
 
+
 <img width="576" alt="Customer Analysis Dashboard 2" src="https://github.com/user-attachments/assets/27946010-44f9-4063-aac9-baab9850f8bf">
 
 ### Conclusion
 ---
-
+After due analysis,these were the insights deducted;
+1.  
 
 ### Recommendation
 
