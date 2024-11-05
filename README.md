@@ -142,6 +142,10 @@ Order by subscriptionend_count desc;
 
 <img width="580" alt="Customer Analysis Dashboard 2" src="https://github.com/user-attachments/assets/de735558-0fe5-40f5-9d33-d4111b3bbbf1">
 
+<img width="573" alt="Customer Analysis Dashboard 3" src="https://github.com/user-attachments/assets/2c04c584-66a4-4598-b059-1455e17249b3">
+
+
+
 
 ### Conclusion
 ---
