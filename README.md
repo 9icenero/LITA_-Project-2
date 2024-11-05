@@ -138,11 +138,12 @@ Order by subscriptionend_count desc;
 <img width="583" alt="Customer Analysis Dashboard" src="https://github.com/user-attachments/assets/390e9818-2aa4-4dde-88b7-8b71829cbd97">
 
 
-<img width="576" alt="Customer Analysis Dashboard 2" src="https://github.com/user-attachments/assets/27946010-44f9-4063-aac9-baab9850f8bf">
+<img width="494" alt="Customer Analysis Dashboard 2" src="https://github.com/user-attachments/assets/e8a52209-4dbb-4509-8896-554be7caa2f2">
+
 
 ### Conclusion
 ---
-After due analysis,these were the insights deducted;
+After my analysis,these were the insights deducted;
 1.  
 
 ### Recommendation
