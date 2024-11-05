@@ -1,7 +1,8 @@
 # Project Title
 ---
-### Customer Subscription Analysis Project
+## Customer Subscription Analysis Project
 ---
+
 
 
 ### Table Outline for the Portfolio
@@ -138,7 +139,8 @@ Order by subscriptionend_count desc;
 <img width="583" alt="Customer Analysis Dashboard" src="https://github.com/user-attachments/assets/390e9818-2aa4-4dde-88b7-8b71829cbd97">
 
 
-<img width="494" alt="Customer Analysis Dashboard 2" src="https://github.com/user-attachments/assets/e8a52209-4dbb-4509-8896-554be7caa2f2">
+
+<img width="580" alt="Customer Analysis Dashboard 2" src="https://github.com/user-attachments/assets/de735558-0fe5-40f5-9d33-d4111b3bbbf1">
 
 
 ### Conclusion
